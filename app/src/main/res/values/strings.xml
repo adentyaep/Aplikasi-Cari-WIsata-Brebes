@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Brebes Wisata</string>
+    <string name="login">Login</string>
+    <string name="title_activity_maps">MapsActivity</string>
+</resources>

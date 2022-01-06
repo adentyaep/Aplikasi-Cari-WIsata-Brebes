@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".daftar">
+
+    <LinearLayout
+        android:background="@drawable/bg_gradasi"
+        android:layout_marginBottom="100dp"
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <TextView
+            android:layout_marginTop="160dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Daftar Akun"
+            android:gravity="center"
+            android:textSize="20dp"
+            android:textColor="@color/white"
+            android:textStyle="bold"/>
+        <EditText
+            android:id="@+id/edtNama"
+            android:layout_marginLeft="20dp"
+            android:layout_marginRight="20dp"
+            android:hint="Nama Lengkap"
+            android:paddingLeft="15dp"
+            android:layout_marginTop="20dp"
+            android:layout_width="match_parent"
+            android:layout_height="45dp"
+            android:background="@drawable/form"
+            android:textColorHint="#d3d3d3"/>
+        <EditText
+            android:id="@+id/edtUsername"
+            android:layout_marginTop="10dp"
+            android:layout_marginLeft="20dp"
+            android:layout_marginRight="20dp"
+            android:paddingLeft="15dp"
+            android:layout_width="match_parent"
+            android:layout_height="45dp"
+            android:hint="Username"
+            android:background="@drawable/form"
+            android:textColorHint="#d3d3d3"/>
+        <EditText
+            android:id="@+id/edtEmail"
+            android:layout_marginTop="10dp"
+            android:layout_marginLeft="20dp"
+            android:layout_marginRight="20dp"
+            android:paddingLeft="15dp"
+            android:layout_width="match_parent"
+            android:layout_height="45dp"
+            android:hint="Email"
+            android:background="@drawable/form"
+            android:textColorHint="#d3d3d3"/>
+        <EditText
+            android:id="@+id/edtPassword"
+            android:hint="Password"
+            android:paddingLeft="15dp"
+            android:layout_marginLeft="20dp"
+            android:layout_marginRight="20dp"
+            android:layout_marginTop="10dp"
+            android:layout_width="match_parent"
+            android:layout_height="45dp"
+            android:background="@drawable/form"
+            android:password="true"
+            android:textColorHint="#d3d3d3"/>
+        <Button
+            android:id="@+id/btndaftar"
+            android:layout_marginTop="20dp"
+            android:layout_marginRight="100dp"
+            android:layout_marginLeft="100dp"
+            android:layout_width="match_parent"
+            android:layout_height="45dp"
+            android:text="DAFTAR"
+            android:textColor="@color/white"/>
+        <TextView
+            android:id="@+id/txtlogin"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="15dp"
+            android:text="Login"
+            android:gravity="center"
+            android:textColor="@color/white"
+            android:textStyle="bold"
+            android:layout_marginTop="15dp"/>
+
+
+    </LinearLayout>
+
+</LinearLayout>

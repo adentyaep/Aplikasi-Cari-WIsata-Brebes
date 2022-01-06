@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Kuliah Aden/PEMROGRAMAN PERANGKAT BERGERAK/Aplikasi Cari Wisata/app/src/main/res/drawable/bg_gradasi.xml" value="0.3828125" />
+        <entry key="..\:/Kuliah Aden/PEMROGRAMAN PERANGKAT BERGERAK/Aplikasi Cari Wisata/app/src/main/res/drawable/bg_gradasi2.xml" value="0.3828125" />
+        <entry key="..\:/Kuliah Aden/PEMROGRAMAN PERANGKAT BERGERAK/Aplikasi Cari Wisata/app/src/main/res/drawable/bg_wisata.xml" value="0.2552083333333333" />
+        <entry key="..\:/Kuliah Aden/PEMROGRAMAN PERANGKAT BERGERAK/Aplikasi Cari Wisata/app/src/main/res/drawable/form.xml" value="0.3828125" />
+        <entry key="..\:/Kuliah Aden/PEMROGRAMAN PERANGKAT BERGERAK/Aplikasi Cari Wisata/app/src/main/res/drawable/form_daftar.xml" value="0.3828125" />
+        <entry key="..\:/Kuliah Aden/PEMROGRAMAN PERANGKAT BERGERAK/Aplikasi Cari Wisata/app/src/main/res/drawable/form_error.xml" value="0.3828125" />
+        <entry key="..\:/Kuliah Aden/PEMROGRAMAN PERANGKAT BERGERAK/Aplikasi Cari Wisata/app/src/main/res/drawable/menu.xml" value="0.3828125" />
+        <entry key="..\:/Kuliah Aden/PEMROGRAMAN PERANGKAT BERGERAK/Aplikasi Cari Wisata/app/src/main/res/drawable/pencarian.xml" value="0.3828125" />
+        <entry key="..\:/Kuliah Aden/PEMROGRAMAN PERANGKAT BERGERAK/Aplikasi Cari Wisata/app/src/main/res/drawable/tombol.xml" value="0.3828125" />
+        <entry key="..\:/Kuliah Aden/PEMROGRAMAN PERANGKAT BERGERAK/Aplikasi Cari Wisata/app/src/main/res/drawable/wisata.xml" value="0.2552083333333333" />
+        <entry key="..\:/Kuliah Aden/PEMROGRAMAN PERANGKAT BERGERAK/Aplikasi Cari Wisata/app/src/main/res/layout/activity_daftar.xml" value="0.36666666666666664" />
+        <entry key="..\:/Kuliah Aden/PEMROGRAMAN PERANGKAT BERGERAK/Aplikasi Cari Wisata/app/src/main/res/layout/activity_detail.xml" value="0.24444444444444444" />
+        <entry key="..\:/Kuliah Aden/PEMROGRAMAN PERANGKAT BERGERAK/Aplikasi Cari Wisata/app/src/main/res/layout/activity_main.xml" value="0.36666666666666664" />
+        <entry key="..\:/Kuliah Aden/PEMROGRAMAN PERANGKAT BERGERAK/Aplikasi Cari Wisata/app/src/main/res/layout/activity_maps.xml" value="0.24444444444444444" />
+        <entry key="..\:/Kuliah Aden/PEMROGRAMAN PERANGKAT BERGERAK/Aplikasi Cari Wisata/app/src/main/res/layout/activity_menu_utama.xml" value="0.25" />
+        <entry key="..\:/Kuliah Aden/PEMROGRAMAN PERANGKAT BERGERAK/Aplikasi Cari Wisata/app/src/main/res/layout/wisata.xml" value="0.25" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
